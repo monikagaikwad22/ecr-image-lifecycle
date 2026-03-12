@@ -115,17 +115,17 @@ Example lifecycle rule:
 
 Before policy:
 
-v1
-v2
-v3
-v4
 v5
+v1
+v4
+v3
+v2
 
 After lifecycle cleanup:
 
-v3
 v4
-v5
+v3
+v2
 
 Older images are automatically deleted.
 
@@ -184,7 +184,17 @@ Include screenshots of:
 }
 
 ````
-# 8 **Security Validation**
+# 8**Lifecycle Policy Result**
+**Before policy**
+
+![WhatsApp Image 2026-03-11 at 1 52 27 PM](https://github.com/user-attachments/assets/f5c6df8a-15d3-486a-98d4-0af73db8a21b)
+
+**After lifecycle cleanup**
+
+![WhatsApp Image 2026-03-11 at 1 52 53 PM](https://github.com/user-attachments/assets/c86184ba-f731-4eb9-83d6-775804176f9d)
+
+
+# 9 **Security Validation**
   **1.create IAM user**
   **2.create Access key and Secret Key**
   **3.Login on terminal**
@@ -192,13 +202,6 @@ Include screenshots of:
 
 
 <img width="1920" height="1008" alt="ubuntu@ip-172-31-21-180_ ~ 3_12_2026 12_40_56 PM" src="https://github.com/user-attachments/assets/567a3b06-9772-4f5d-b3bd-b4c17150a9e8" />
-
-
-
-
-
-
-
 
 
 
