@@ -184,7 +184,7 @@ Include screenshots of:
 }
 
 ````
-# 8**Lifecycle Policy Result**
+# 8 **Lifecycle Policy Result**
 **Before policy**
 
 ![WhatsApp Image 2026-03-11 at 1 52 27 PM](https://github.com/user-attachments/assets/f5c6df8a-15d3-486a-98d4-0af73db8a21b)
