@@ -184,6 +184,14 @@ Include screenshots of:
 }
 
 ````
+# 8 **Security Validation**
+  **1.create IAM user**
+  **2.create Access key and Secret Key**
+  **3.Login on terminal**
+  **4.show result AccessDeniedException**
+
+
+<img width="1920" height="1008" alt="ubuntu@ip-172-31-21-180_ ~ 3_12_2026 12_40_56 PM" src="https://github.com/user-attachments/assets/567a3b06-9772-4f5d-b3bd-b4c17150a9e8" />
 
 
 
